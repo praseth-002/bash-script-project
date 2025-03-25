@@ -1,13 +1,13 @@
 #!bin/bash
 clear
 echo "What would you like to do?"
-echo "=============================\n"
+echo "============================="
 echo "1. List all files and sub-directories with detailed information of a given directory or file."
 echo "2. Create backups of individual files and entire directories."
 echo "3. Count the number of files in a directory of a given directory"
 echo "4. Display disk usage of a given directory."
 echo "5. Search for a file by name or extension of a given directory."
-echo "6. Compress the given files or directories.\n"
+echo "6. Compress the given files or directories."
 echo "============================="
 read -p "Enter your choice: " finalInput
 echo "==============================" >> console.log
