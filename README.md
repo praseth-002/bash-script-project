@@ -15,7 +15,7 @@ They all are combined into final.sh.
 Your inputs are also stored in a console.log files.
 
 ## How to use
-* open up your terminal and navigate to the folder that has the scripts
-* run final.sh with either bash "final.sh" or "./final.sh"
-* it will now show you 6 options and you can select the which one you want
-* once entered a number from 1-6 it will guide you through on what to do next
+* open up your terminal and navigate to the folder that has the scripts.
+* run final.sh with either "bash final.sh" or "./final.sh".
+* it will now show you 6 options and you can select the which one you want.
+* once entered a number from 1-6 it will guide you through on what to do next.
