@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 echo "Enter the file or directory you want to make a backup: "
 read userFile
 echo $userFile >> console.log

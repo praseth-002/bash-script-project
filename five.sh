@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 read -p "Enter directory: " location
 echo $location >> console.log
 expandPath=$(eval echo $location)

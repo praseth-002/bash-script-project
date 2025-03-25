@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 read -p "Enter the directory you want to check the amount of files: " location
 echo $location >> console.log
 expandPath=$(eval echo $location)

@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 echo "Enter the path you want to check (relative to current directory): "
 read userInput
 echo $userInput >> console.log
