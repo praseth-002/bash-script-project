@@ -4,4 +4,4 @@ read userInput
 echo $userInput >> console.log
 final=$(eval echo $userInput)
 #could use if else but need to check a lot
-ls -l $final
+ls -l "$final"
