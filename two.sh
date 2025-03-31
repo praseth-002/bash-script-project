@@ -7,4 +7,4 @@ echo "Enter the location of your backup: "
 read userLocation
 echo $userLocation >> console.log
 final2=$(eval echo $userLocation)
-cp -r $final1 $final2
+cp -r "$final1" "$final2"
